@@ -44,10 +44,10 @@ set2.pcap
 
 Click Statistics in wireshark and using the "Resolved address"
 
-172.217.11.74	googleapis.l.google.com                                                                                                  
-17.248.129.146	p16-caldav.fe.apple-dns.net
-165.227.0.37	vtfbctf.com
-17.248.129.175	p16-caldav.fe.apple-dns.net
+   172.217.11.74	googleapis.l.google.com                                                                                                  
+   17.248.129.146	p16-caldav.fe.apple-dns.net
+   165.227.0.37	vtfbctf.com
+   17.248.129.175	p16-caldav.fe.apple-dns.net
 208.71.44.30	flickr-panda-police.a00.yahoodns.net
 216.58.216.35	beacons-handoff.gcp.gvt2.com
 208.71.45.11	ds2-global.l7.search.ystg1.b.yahoo.com
