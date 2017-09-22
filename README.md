@@ -44,7 +44,7 @@ set2.pcap
 
 Click Statistics in wireshark and using the "Resolved address"
 
-172.217.11.74	googleapis.l.google.com
+172.217.11.74	googleapis.l.google.com                                                                                                  
 17.248.129.146	p16-caldav.fe.apple-dns.net
 165.227.0.37	vtfbctf.com
 17.248.129.175	p16-caldav.fe.apple-dns.net
